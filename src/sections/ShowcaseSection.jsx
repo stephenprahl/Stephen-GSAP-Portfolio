@@ -67,11 +67,11 @@ const AppShowcase = () => {
             <div className="project" ref={proposalRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img
-                  src="/images/analytica.png"
+                  src="/images/xora.png"
                   alt="Analytica App Interface"
                 />
               </div>
-              <h2>Analytica the mobile app for Data</h2>
+              <h2>XORA - A video editing software like no other</h2>
             </div>
 
             <div className="project" ref={banditRef}>
