@@ -267,20 +267,29 @@ const testimonials = [
 
 const socialImgs = [
   {
-    name: "insta",
-    imgPath: "/images/insta.png",
+    name: "instagram",
+    imgPath: "/images/instagram.svg",
+    href: "https://instagram.com/step_732"
+  },
+  {
+    name: "youtube",
+    imgPath: "/images/youtube.svg",
+    href: "https://youtube.com/@wicked-ui"
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
+    href: "https://facebook.com/stevie732"
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    href: "https://twitter.com/@wickedui"
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    href: "https://linkedin.com/in/stephen-prahl"
   },
 ];
 
