@@ -274,7 +274,7 @@ const socialImgs = [
   {
     name: "youtube",
     imgPath: "/images/youtube.svg",
-    href: "https://youtube.com/@wicked-ui"
+    href: "https://youtube.com/@wickedui"
   },
   {
     name: "fb",
