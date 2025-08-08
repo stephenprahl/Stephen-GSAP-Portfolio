@@ -1,0 +1,6 @@
+# Allow all crawling
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://https://stephenprahl.vercel.app/sitemap.xml

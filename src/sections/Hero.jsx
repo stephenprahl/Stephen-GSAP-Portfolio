@@ -37,7 +37,7 @@ const Hero = () => {
                       >
                         <img
                           src={word.imgPath}
-                          alt="person"
+                          alt={`${word.text} icon`}
                           className="xl:size-12 md:size-10 size-7 md:p-2 p-1 rounded-full bg-white-50"
                         />
                         <span>{word.text}</span>
@@ -51,7 +51,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-              Build AI-powered, no-code, or Web3 websites with a top-tier full-stack developer.
+              React, Three.js (WebGL), GSAP, and AI— I build fast, <br />SEO‑optimized websites and web apps that convert.
             </p>
 
             <Button
