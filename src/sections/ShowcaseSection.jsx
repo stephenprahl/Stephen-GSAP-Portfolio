@@ -53,12 +53,10 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Proposal Generation Made Simple with a Powerful, AI & User-Friendly App
-                called BidBuddyAI
+                Effortlessly create winning proposals in seconds with BidBuddyAI, the ultimate AI-powered, user-friendly app for on-demand proposal generation.
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React, Bun, & TailwindCSS for a fast,
-                user-friendly experience.
+                Lightning-fast AI app crafted with React, Bun, and TailwindCSS, optimized for SEO, powered by a custom ChatGPT for an unbeatable, user-friendly experience.
               </p>
             </div>
           </div>
@@ -71,14 +69,14 @@ const AppShowcase = () => {
                   alt="Analytica App Interface"
                 />
               </div>
-              <h2>XORA - A video editing software like no other</h2>
+              <h2>XORA - Revolutionary video editing software delivering unparalleled AI-powered features, seamless creative tools, and dynamic editing experiences for content creators and professionals.</h2>
             </div>
 
             <div className="project" ref={banditRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/fireFlex.png" alt="FireFlexAI App" />
               </div>
-              <h2>FireFlexAI is a cross platform project management soluton</h2>
+              <h2>FireFlexAI is an innovative, cross-platform project management solution empowering teams with AI-driven tools, seamless collaboration, and dynamic task tracking for startups and businesses.</h2>
             </div>
           </div>
         </div>

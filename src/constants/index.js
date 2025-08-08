@@ -75,17 +75,17 @@ const abilities = [
   {
     imgPath: "/images/seo.png",
     title: "Quality Focus",
-    desc: "Delivering high-quality results while maintaining attention to every detail.",
+    desc: "Achieve flawless, high-quality results with unmatched precision and meticulous attention to every detail.",
   },
   {
     imgPath: "/images/chat.png",
     title: "Reliable Communication",
-    desc: "Keeping you updated at every step to ensure transparency and clarity.",
+    desc: "Stay informed with real-time updates, ensuring crystal-clear transparency every step of the way.",
   },
   {
     imgPath: "/images/time.png",
     title: "On-Time Delivery",
-    desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+    desc: "Delivering projects on time with exceptional quality and unwavering attention to every detail.",
   },
 ];
 
@@ -147,54 +147,54 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Stephen brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Stephen's creative technical expertise significantly improved our frontend performance, delivering invaluable faster experiences for our users.",
     imgPath: "/images/opexBanner.jpeg",
     logoPath: "/images/opexLogo.png",
     title: "Lead Software Engineer",
     date: "December 2024 - May 2025",
     responsibilities: [
-      "Devised scalable APIs and databases using Supabase to enhance operational efficiency.",
-      "Constructed Angular based applications employing component-driven architecture, boosting user engagement by 15%.",
-      "Spearheaded the development of a monolithic connected worker platform, achieving a 20% conversion rate.",
-      "Kept pace with emerging frontend technologies and industry advancements to ensure continuous professional growth."
+      "Created scalable APIs and robust databases with Supabase, boosting operational efficiency through streamlined backend development.",
+      "Built high-performance Angular applications using a component-driven architecture, which boosted user engagement by 15% and delivered a superior user experience.",
+      "Led the development of a monolithic connected worker platform, driving a remarkable 20% conversion rate and maximizing operational efficiency.",
+      "Actively stayed current with emerging frontend technologies and industry advancements, ensuring continuous professional development and a leading-edge skillset."
     ],
   },
   {
-    review: "Stephen's contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review: "Stephen's outstanding contributions to Docker web applications showcase a strong problem-solving mindset and a talent for innovative solutions.",
     imgPath: "/images/proBanner.jpg",
     logoPath: "/images/proLogo.jpg",
     title: "Senior Web Developer",
     date: "March 2025 - May 2025",
     responsibilities: [
-      "Delivered tailored web applications for clients using Velo.js, Node.js, JavaScript, Webflow, and Wix",
-      "Oversaw ongoing maintenance to ensure peak performance and user satisfaction.",
-      "Balanced multiple projects with efficient time management and organizational skills.",
+      "Created tailored web applications for clients with Velo.js, Node.js, JavaScript, Webflow, and Wix, focusing on custom solutions and client-centric design.",
+      "Led ongoing maintenance and support, ensuring peak performance and maximum user satisfaction through proactive issue resolution.",
+      "Managed multiple projects effectively through expert time management and strong organizational skills, consistently meeting deadlines.",
     ],
   },
   {
-    review: "Stephen’s work on Panpalz mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review: "Stephen delivered high-quality, efficient solutions for the Panpalz mobile app, enhancing the user experience and successfully achieving key product goals.",
     imgPath: "/images/panBanner.svg",
     logoPath: "/images/panLogo.jpeg",
     title: "React Native Developer",
     date: "January 2024 - March 2025",
     responsibilities: [
-      "Built cross-platform interfaces with React-Native and Expo, contributing to company standards while exploring personal growth.",
-      "Optimized and maintained continuous workflow while recognized as a resilient problem-solver and high-impact performer committed to excellence.",
-      "Demonstrated resilience, versatility, and unwavering commitment exceeding expectations and finishing tasks in a timely manner.",
-      "Empowered junior and senior developers with expert guidance and support, driving innovation and excellence across frontend and backend projects.",
-      "Excelled in a dynamic, high-pressure environment by rapidly adapting to shifting priorities, managing heavy workloads with precision, consistently delivering exceptional outcomes."
+      "Developed cross-platform interfaces using React Native and Expo, aligning with company standards and fostering continuous professional growth.",
+      "Optimized continuous workflow and provided consistent maintenance, demonstrating a resilient problem-solving mindset and a track record of high-impact performance and a commitment to excellence.",
+      "Demonstrated resilience and versatility, consistently exceeding expectations and delivering high-quality results on time.",
+      "Provided expert guidance and support to both junior and senior developers, fostering innovation and excellence in frontend and backend projects.",
+      "Excelled in dynamic, high-pressure environments by rapidly adapting to shifting priorities, expertly managing heavy workloads, and consistently delivering exceptional results."
     ],
   },
   {
-    review: "Stephen’s work brought a high level of quality and efficiency. He delivered solutions that enhanced our digital experience & met our product goals.",
+    review: "Stephen delivered high-quality, efficient solutions that enhanced our digital experience and successfully achieved key product goals.",
     imgPath: "/images/execBanner.png",
     logoPath: "/images/execLogo.png",
     title: "Full Stack Developer",
     date: "March 2020 - January 2024",
     responsibilities: [
-      "Utilized Python and machine learning methodologies to construct and deploy predictive models for customer churn, leading to a significant improvement in customer retention.",
-      "Achieved an 85% accuracy rate in identifying at-risk customers, enabling proactive retention strategies and driving a substantial increase in customer lifetime value.",
-      "Crafted intuitive user interfaces with React and Bootstrap, increasing user satisfaction by 20%.",
+      "Built and deployed predictive models for customer churn using Python and machine learning, resulting in a significant improvement in customer retention.",
+      "85% accuracy rate in identifying at-risk customers, leading to proactive retention strategies and a substantial boost in customer lifetime value.",
+      "Crafted intuitive user interfaces with React and Bootstrap, which increased user satisfaction by 20%.",
       "Engineered real-time solutions for business-critical issues, boosting system reliability and cutting downtime by 30%.",
       "Partnered with cross-functional teams to ensure timely and budget-conscious project completion."
     ],
@@ -222,45 +222,45 @@ const expLogos = [
 
 const testimonials = [
   {
-    name: "Esther Howard",
-    mentions: "@estherhoward",
+    name: "Esther McGregor",
+    mentions: "@esthermcgregor",
     review:
-      "I can’t say enough good things about Stephen. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.",
+      "Stephen took our complex project requirements and delivered a seamless, functional website, showcasing his outstanding problem-solving abilities.",
     imgPath: "/images/client1.png",
   },
   {
-    name: "Wade Warren",
-    mentions: "@wadewarren",
+    name: "Wade Boggs",
+    mentions: "@wadeboggs",
     review:
-      "Working with Stephen was a fantastic experience. He transformed our outdated website into a modern, user-friendly platform. His attention to detail and commitment to quality are unmatched. Highly recommend him for any web dev projects.",
+      "Stephen transformed our outdated website into a modern, user-friendly platform, demonstrating unmatched attention to detail and a commitment to quality on all web development projects.",
     imgPath: "/images/client3.png",
   },
   {
-    name: "Guy Hawkins",
-    mentions: "@guyhawkins",
+    name: "Benson Boone",
+    mentions: "@bensonboone",
     review:
-      "Collaborating with Stephen was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Stephen's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Stephen is the ideal partner.",
+      "Collaborating with Stephen was a pleasure. His professionalism, promptness, and dedication ensured exceptional results. Stephen's enthusiasm for development makes him the ideal partner for anyone looking to elevate their website and brand.",
     imgPath: "/images/client2.png",
   },
   {
-    name: "Marvin McKinney",
-    mentions: "@marvinmckinney",
+    name: "Marvin Mims",
+    mentions: "@marvinmims",
     review:
-      "Stephen was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
+      "Stephen transformed our outdated website into a modern, intuitive platform that is both user-friendly and easy to navigate, delivering fantastic results.",
     imgPath: "/images/client5.png",
   },
   {
-    name: "Floyd Miles",
-    mentions: "@floydmiles",
+    name: "Floyd Collins",
+    mentions: "@floydcollins",
     review:
-      "Stephen's expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
+      "Stephen's web development expertise delivered a robust, scalable e-commerce solution, leading to a significant increase in online sales.",
     imgPath: "/images/client4.png",
   },
   {
-    name: "Albert Flores",
-    mentions: "@albertflores",
+    name: "Alberto Del Rio",
+    mentions: "@albertodelrio",
     review:
-      "Stephen was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend and backend dev are top-notch.",
+      "Stephen delivered a website that exceeded our expectations by perfectly understanding our requirements, showcasing his top-notch skills in both frontend and backend development.",
     imgPath: "/images/client6.png",
   },
 ];
